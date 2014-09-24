@@ -1,7 +1,7 @@
 
-body
-{
-background-color:yellow;
-font-family:Arial;
-color:black;
+body {
+    background-image: url('congruent_outline.png');
+    background-color: #red;
+	font-family:arial;
+	color:white;   
 }
